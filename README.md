@@ -1,2 +1,2 @@
-# vet-core
-VET project core classes.
+# VENVT-core
+VENVT project core classes.
